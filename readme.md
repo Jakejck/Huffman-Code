@@ -1,5 +1,5 @@
 
-# LRU Instruction :
+# Huffman Code Instruction :
 
 ## How to use it 
 
