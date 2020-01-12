@@ -1,5 +1,15 @@
 
-# Problem 3 explanation :
+# LRU Instruction :
+
+## How to use it 
+
+You can use it in python or in a jupyternote book.
+
+It is easy to use the Anconda environment.
+
+
+### introduction
+The Huffman algorithm works by assigning codes that correspond to the relative frequency of each character for each character. The Huffman code can be of any length and does not require a prefix; therefore, this binary code can be visualized on a binary tree with each encoded character being stored on leafs.
 
 ### Design
 
